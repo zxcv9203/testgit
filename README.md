@@ -1,2 +1,2 @@
 # hello git
-update test
+Update test
